@@ -55,7 +55,7 @@
     },
     "wof:country":"JE",
     "wof:created":1497294612,
-    "wof:geomhash":"443af4861883474073f6efb01a198280",
+    "wof:geomhash":"3f77dd7c6fbbaa334b09d6477d501200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     -2.065429,
     49.2379155
 ],
-  "geometry": {"coordinates":[-2.065429,49.2379155],"type":"Point"}
+  "geometry": {"coordinates":[-2.065429,49.237916],"type":"Point"}
 }

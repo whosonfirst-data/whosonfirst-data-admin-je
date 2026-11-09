@@ -52,7 +52,7 @@
         "gn:id":3042162
     },
     "wof:country":"JE",
-    "wof:geomhash":"ac70bcec4f010fbe8e986591f1b14206",
+    "wof:geomhash":"908b3df9ad8cb36411a016d0efc6a953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     -2.17306,
     49.19139000000001
 ],
-  "geometry": {"coordinates":[-2.17306,49.19139000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.17306,49.19139],"type":"Point"}
 }
